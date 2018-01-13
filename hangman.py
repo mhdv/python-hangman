@@ -3,6 +3,10 @@
 	Author:			Michal Filipowicz
 	Nr indeksu:		226393
 	Date created:	13-01-2018
+	My Page:		mhdv.pl
+	My GitHub:		github.com/mhdv
+	Project Repo:	github.com/mhdv/python-hangman
+
 	PLEASE CHECK README.md
 '''
 import argparse
